@@ -1,0 +1,25 @@
+{
+  "name": "upload-files-express",
+  "version": "1.0.0",
+  "description": "Subir archivos con un servidor node.js y express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Werewolf1200/upload-files-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Werewolf1200/upload-files-express/issues"
+  },
+  "homepage": "https://github.com/Werewolf1200/upload-files-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mime-types": "^2.1.31",
+    "multer": "^1.4.2"
+  }
+}
